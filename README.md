@@ -9,4 +9,4 @@
 >  from sklearn.model_selection import cross_val_score
 
 ## How to Run:
-Run 5001model.py script and the fiinal predictions in result.csv file.
+>  Run 5001model.py script and the fiinal predictions in result.csv file.
